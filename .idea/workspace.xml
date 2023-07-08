@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50beff89-b1c0-4c0f-880f-9da76ae9ac62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Gestion-comptes-backend-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/models/Staff.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/models/StaffDTO.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/staff/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestion-comptes-backend-main/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gestion-comptes-backend-main/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-compte-frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-compte-frontend/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gestion-compte-frontend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SCvFciPiDd7WhIMlopCYT8SwDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Nouveau dossier (5)/avalon-ng-11.0.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\LENOVO\\Desktop\\front\\gestion-compte-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\front\gestion-compte-frontend\node_modules" />
+      <recent name="C:\Users\LENOVO\Desktop\front\gestion-compte-frontend\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50beff89-b1c0-4c0f-880f-9da76ae9ac62" name="Changes" comment="" />
+      <created>1688663275233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688663275233</updated>
+      <workItem from="1688663276528" duration="11496000" />
+      <workItem from="1688688680222" duration="5228000" />
+      <workItem from="1688693946935" duration="5583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
